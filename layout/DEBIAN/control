@@ -1,0 +1,9 @@
+Package: us.nakedproductions.lockvibe
+Name: LockVibe
+Depends: mobilesubstrate
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Make certain things on iOS vibrate.
+Maintainer: EvilPenguin|
+Author: EvilPenguin|
+Section: Tweaks
